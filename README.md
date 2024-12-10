@@ -1,4 +1,4 @@
-# Chicago Crime EDA
+<h1 align ="Center"> Chicago Crime EDA </h1>
 
 ## Overview
 Chicago has faced a longstanding reputation for high crime rates. While crime levels have fluctuated over the years, certain community areas consistently report higher crime rates, often linked to economic disparities, unemployment, and systemic challenges. 
